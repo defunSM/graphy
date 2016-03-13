@@ -15,12 +15,12 @@ Setting up Graphy:
     
 Using Graphy:
 
-    $ python graph.py [equation]
+    $ python graphy.py [equation]
     
     Note: If using zsh shell do the following instead to disable globbing ...
-    $ noglob python graph.py [equation]
+    $ noglob python graphy.py [equation]
     
-    Example of usage: $ python graph.py 2*x^2
+    Example of usage: $ python graphy.py 2*x^2
     Note: You do have to use the * for cofficients infront of the x or else the pdf won't compile.
     
 Process of Graphy:
