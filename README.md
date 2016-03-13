@@ -7,13 +7,13 @@ A simple program that will generate a graph using LaTex and display as a pdf.
     pgfplots (package for latex used to generate the graphs)
     python 3.x
     
-# Setting up Graphy:
+**Setting up Graphy:**
 ==
     1. Place the graphing.tex and the graph.py in the same directory.
     2. Download LaTex and the pgfplots package for LaTex.
     3. Python should be on your computer if not download it.
     
-# Using Graphy:
+**Using Graphy:**
 ==
     $ python graphy.py [equation]
     
@@ -23,7 +23,7 @@ A simple program that will generate a graph using LaTex and display as a pdf.
     Example of usage: $ python graphy.py 2*x^2
     Note: You do have to use the * for cofficients infront of the x or else the pdf won't compile.
     
-# Process of Graphy:
+**Process of Graphy:**
 ==    
     What graphy.py does is the following ...
     
