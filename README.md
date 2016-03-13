@@ -1,4 +1,4 @@
-# Graphy
+## Graphy
 A simple program that will generate a graph using LaTex and display as a pdf.
 
 **Requirements:**
