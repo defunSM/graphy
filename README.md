@@ -3,7 +3,7 @@ A simple program that will generate a graph using LaTex and display as a pdf.
 
 ### Requirements:
 * LaTex
-* Pgfplots (Package for LaTex used to generate the graphs.)
+* Pgfplots (Package for LaTex)
 * Python 3.x
     
 ### Setting up Graphy:
