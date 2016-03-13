@@ -1,7 +1,7 @@
 # Graphy
 A simple program that will generate a graph using LaTex and display as a pdf.
 
-#Requirements:
+**Requirements:**
 ==
     latex
     pgfplots (package for latex used to generate the graphs)
