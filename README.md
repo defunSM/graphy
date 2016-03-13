@@ -23,4 +23,14 @@ Using Graphy:
     Example of usage: $ python graph.py 2*x^2
     Note: You do have to use the * for cofficients infront of the x or else the pdf won't compile.
     
+Process of Graphy:
+    
+    What graphy.py does is the following ...
+    
+    1. Takes the input from the user as the equation.
+    2. Changes the graphing.tex file with the equation.
+    3. Runs pdflatex on the graphing.tex.
+    4. Then displays the graphing.pdf that is generated.
+
+    
 
